@@ -14,8 +14,8 @@
 
 -   **Framework:** Python with FastAPI
     -   **Reasoning:** FastAPI is a high-performance web framework for building APIs with Python. It's easy to use and provides automatic interactive documentation.
--   **Multi-Agent System:** CrewAI
-    -   **Reasoning:** A framework for orchestrating autonomous AI agents. It simplifies the process of designing and running multi-agent systems.
+-   **Multi-Agent System:** N8N
+    -   **Reasoning:** A free, source-available, and scalable workflow automation tool. It can be used for multi-agent orchestration, allowing for the creation and management of agents through a user-friendly UI. Agent configurations can be stored in JSON files, which keeps the codebase clean and makes modifications easy.
 -   **Language Model:** A powerful language model from a provider like OpenAI (GPT-4), Anthropic (Claude 3), or Google (Gemini).
 -   **Data Sources:**
     -   Reddit API (via PRAW library)

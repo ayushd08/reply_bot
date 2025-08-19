@@ -54,7 +54,7 @@ The backend is built around a multi-agent system, where each agent has a specifi
     -   Implement the user input for the product description.
     -   Develop the display for the list of questions with checkboxes.
 3.  **Backend Development:**
-    -   Implement the multi-agent architecture using a framework like CrewAI.
+    -   Implement the multi-agent architecture using a workflow automation tool like N8N.
     -   Integrate with the Reddit API for community and question discovery.
     -   Develop the API endpoints to connect the frontend and backend.
 4.  **Integration:**
